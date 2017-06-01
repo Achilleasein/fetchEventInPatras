@@ -1,2 +1,2 @@
-# fetchEventInPatras
-fetching events from Facebook from Patra's region
+# Fetch Event in Patras
+Fetching all local event from the region of Achaia/Patra, it's a project for the university.
